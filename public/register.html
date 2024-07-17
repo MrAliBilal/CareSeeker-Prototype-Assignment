@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register Page</title>
+
+    <link rel="stylesheet" href="css/form.css">
+
+</head>
+<body>
+
+    <div class="alert-box">
+        <p class="alert"></p>
+    </div>
+
+    <div class="form">
+        <h1 class="heading">Register as Support Worker</h1>
+        <input type="text" placeholder="First Name" autocomplete="off" class="firstname" required>
+        <input type="text" placeholder="Last Name" autocomplete="off" class="lastname" required>
+        <input type="tel" placeholder="Phone Number" autocomplete="off" class="mobileno" required>
+        <input type="email" placeholder="email" autocomplete="off" class="email" required>
+        <input type="password" placeholder="password" autocomplete="off" class="password" required>
+        <input type="text" placeholder="Image (URL)" autocomplete="off" class="image" required>
+        <input type="text" placeholder="qualification" autocomplete="off" name="qualification" required>
+        <input type="number" placeholder="Experience (Years)" autocomplete="off" name="experience" required>
+        <input type="number" placeholder="Hourly Rate (Rs)" autocomplete="off" name="hourlyRate" required>
+        <textarea placeholder="Bio" name="bio" rows="3"></textarea>
+
+        <button class="submit-btn">register</button>
+        <a href="/login" class="link">already have an account ? log in here</a>
+    </div>
+
+    <script src="js/form.js"></script>
+    
+</body>
+</html>
