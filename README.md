@@ -3,7 +3,7 @@
 ## Overview
 This is a prototype designed for the Final Year Project (FYP) CareSeeker. This prototype aims to streamline and enhance the process of seeking care services. It allows users to sign up either as a care seeker or a support worker and leverages a variety of technologies to create a robust, efficient, and user-friendly application.
 
-![](https://github.com/AliBilal-1/CareSeeker-Prototype-Assignment/blob/main/Output%20Images/4.%20Login%20page.png)
+![](https://github.com/MrAliBilal/CareSeeker-Prototype-Assignment/blob/main/Output%20Images/4.%20Login%20page.png)
 
 ## Technologies Used
 
