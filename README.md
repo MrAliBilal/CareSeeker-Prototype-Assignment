@@ -31,7 +31,7 @@ To get started with the CareSeeker prototype, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/AliBilal-1/CareSeeker-Prototype-Assignment.git
+    git clone https://github.com/MrAliBilal/CareSeeker-Prototype-Assignment.git
     cd CareSeeker-Prototype-Assignment
     ```
 
